@@ -6,7 +6,7 @@ Toggling checked vs unchecked will add / remove the text from the text box.
 
 Updating the ticket is required to save any changes else it will be purely visual.
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+Please submit bug reports to [Insert Link](https://github.com/jeremiahcurrier/TextField). Pull requests are welcome.
 
 ### Screenshot(s):
 
